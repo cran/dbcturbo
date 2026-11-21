@@ -1,8 +1,8 @@
 Package: dbcturbo
 Type: Package
 Title: High-Performance Streaming Reader for 'DATASUS' DBC Files
-Version: 0.2.0
-Date: 2026-09-30
+Version: 0.3.0
+Date: 2026-11-20
 Authors@R: c(
     person("Gumercindo", "Pimentel Peralta", email = "gumercindopimentel@gmail.com", 
            role = c("aut", "cre"), comment = c(ORCID = "0000-0002-5896-3171")),
@@ -31,7 +31,7 @@ Suggests: data.table (>= 1.14.0), arrow (>= 12.0.0), testthat (>=
         3.0.0), knitr, rmarkdown
 VignetteBuilder: knitr
 Config/roxygen2/version: 8.1.0
-Packaged: 2026-09-30 18:03:41 UTC; gumercindo
+Packaged: 2026-11-21 01:05:41 UTC; gumercindo
 Author: Gumercindo Pimentel Peralta [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-5896-3171>),
   Juliana da Silva [ths] (ORCID: <https://orcid.org/0000-0002-1089-6766>),
@@ -40,4 +40,4 @@ Author: Gumercindo Pimentel Peralta [aut, cre] (ORCID:
   Pablo Fonseca [ctb] (Author of blast-dbf)
 Maintainer: Gumercindo Pimentel Peralta <gumercindopimentel@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-10-10 11:20:20 UTC
+Date/Publication: 2026-11-21 03:30:02 UTC
